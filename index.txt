@@ -1,0 +1,229 @@
+BELHADJ Akram Djalal Portfolio
+
+# sidebar
+
+alt = BELHADJ Akram Djalal
+Belhadj Akram
+Web & Mobile developer
+
+Show Contacts
+
+Email
+akramdjalalbelhadj@gmail.com
+
+Phone
+(+213) 551-2161XX
+
+Birthday
+Nov 01, 1999
+
+Location
+Algiers, Algeria
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+Salam Alaykum Brothers,
+
+My name is BELHADJ Akram Djalal From Algeria
+
+Passionate about software development with a keen interest in artificial intelligence research, I am looking for experiences that will allow me to enrich my educational and professional background, as well as to apply my knowledge and refine my skills.
+
+I work to create a website for you that's easy to use, looks good, and works well. I also add a unique touch to make sure it's appealing and simple to navigate. My goal is to effectively present your message and identity in a creative manner.
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Development of Android applications.
+
+alt = data icon
+Data Engineer
+Designing and managing data infrastructure, processing pipelines, analytics solutions for efficient and scalable data handling.
+
+
+
+## testimonials
+
+Testimonials
+
+alt = Saleh
+Oumhamed Saleh
+BELHADJ
+
+## clients
+
+Clients
+
+alt = client logo
+
+# resume
+
+Resume
+
+Education
+
+Master Software Engineering, Blida1 University
+2021 — 2023
+Master 1 : Advanced databases , Advanced Algorithms , Object Oriented Modeling , Artificial intelligence. Advanced Object Oriented Programming , Distributed algorithms , Entrepreneurship.
+Master 2 : Component Model and Software Architecture , Business Intelligence Information Systems , Knowledge Engineering and Ontology
+
+Mention : Fairly Good
+
+Bachelor In Computer Science, Blida1 University
+2018 — 2021
+Computer architecture , Algorithms and data structure , Operating system , Databases , Network , Oriented programming object , Compilation , Software Engineering , Artificial intelligence , Human-Machine Interface, Mobile Apps , IT security , DataBase Administration , cryptography
+
+Mention : Fairly Good
+
+Baccalaureate , Messeguem Abdelkader High School , Tipaza
+2016 — 2017
+Series: Experimental Sciences
+Mention : Fairly Good
+
+#Experience
+
+Woodly
+September 2023 — December 2023
+Web/mobile application for selling furniture and supplies
+
+Fake News Detection Using Machine Learning
+September 2023
+
+Ransomware Detection Using Deep Learning
+January 2023 - June 2023
+(Master's Thesis Project)
+
+Sentiment Analysis With Deep Learning Using BERT
+September 2022 - November 2022
+
+Design And Implementation Of A Mobile Application « Quizz »
+Febraury 2021 - June 2021
+
+Creation Of An Algorithmic Language Compiler
+February 2021 - July 2021
+(Bachelor's Thesis Project)
+
+#Technical Skills
+
+Modeling And Design :
+UML / Entity Relationship Diagram
+
+Web Development :
+HTML, CSS, JavaScript & Spring
+
+Mobile Apps :
+Java, JetPack Compose
+
+Database Design And Administration :
+MySQL, SQLServer
+
+Architecture And Paradigm :
+POO / GOF Design Pattern / REST API / SOA
+
+Machine Learning / Deep Learning :
+Sckit-learn / Tenserflow
+
+#Certifications
+
+Python Programmer, Datacamp
+
+Machine Learning Specialization, DeepLearning.AI.
+
+Deep Learning Specialization, DeepLearning.AI
+
+AI For Medicine Specialization,DeepLearning.AI
+
+Software Design And Architecture Specialization, University Of Alberta
+
+Meta Database Engineer Professional Certificate, Meta
+
+SQL Developer, Datacamp
+
+#Languages
+Arabic
+French
+English
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Applications
+Web development
+
+Select category
+All
+Applications
+Web development
+
+alt = Woodly
+Woodly
+Web development
+
+alt = Quizz Mobile App
+Quizz Mobile App
+Mobile development
+
+alt = My Portfolio
+My Portfolio
+Web development
+
+alt = Fake News Detection Using Machine Learning
+Fake News Detection Using Machine Learning
+Applications
+
+alt = Ransomware Detection Using Deep Learning
+Ransomware Detection Using Deep Learning
+Applications
+
+alt = Sentimental Analysis With Deep Learning Using BERT
+Sentimental Analysis With Deep Learning Using BERT
+Applications
+
+
+
+# blog
+
+Blog
+
+alt = D23 GOF Design Patterns
+Design
+Sep 01, 2023
+23 GOF Design Patterns
+Software Architecte : let's discover together the power of Design Patterns.
+
+
+# contact
+
+Contact
+
+Contact Me
+
+your name
+email address
+your message
+
+Send Message
